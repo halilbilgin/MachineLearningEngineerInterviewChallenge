@@ -1,0 +1,227 @@
+CODE,NAME,CODE3,NUMCODE,PHONECODE
+AF,Afghanistan,AFG,4,93
+AL,Albania,ALB,8,355
+DZ,Algeria,DZA,12,213
+AS,American Samoa,ASM,16,1684
+AO,Angola,AGO,24,244
+AI,Anguilla,AIA,660,1264
+AG,Antigua and  Barbuda,ATG,28,1268
+AR,Argentina,ARG,32,54
+AM,Armenia,ARM,51,374
+AW,Aruba,ABW,533,297
+AU,Australia,AUS,36,61
+AT,Austria,AUT,40,43
+AZ,Azerbaijan,AZE,31,994
+BS,Bahamas,BHS,44,1242
+BH,Bahrain,BHR,48,973
+BD,Bangladesh,BGD,50,880
+BB,Barbados,BRB,52,1246
+BY,Belarus,BLR,112,375
+BE,Belgium,BEL,56,32
+BZ,Belize,BLZ,84,501
+BJ,Benin,BEN,204,229
+BM,Bermuda,BMU,60,1441
+BT,Bhutan,BTN,64,975
+BO,Bolivia,BOL,68,591
+BA,Bosnia and  Herzegovina,BIH,70,387
+BW,Botswana,BWA,72,267
+BR,Brazil,BRA,76,55
+BN,Brunei Darussalam,BRN,96,673
+BG,Bulgaria,BGR,100,359
+BF,Burkina Faso,BFA,854,226
+BI,Burundi,BDI,108,257
+KH,Cambodia,KHM,116,855
+CM,Cameroon,CMR,120,237
+CA,Canada,CAN,124,1
+CV,Cape Verde,CPV,132,238
+KY,Cayman Islands,CYM,136,1345
+CF,Central African Republic,CAF,140,236
+TD,Chad,TCD,148,235
+CL,Chile,CHL,152,56
+CN,China,CHN,156,86
+CO,Colombia,COL,170,57
+KM,Comoros,COM,174,269
+CG,Congo,COG,178,242
+CD,"Congo, The Democratic Republic Of The",COD,180,242
+CK,Cook Islands,COK,184,682
+CR,Costa Rica,CRI,188,506
+CI,Cote D'Ivoire,CIV,384,225
+HR,Croatia,HRV,191,385
+CU,Cuba,CUB,192,53
+CY,Cyprus,CYP,196,357
+CZ,Czech Republic,CZE,203,420
+DK,Denmark,DNK,208,45
+DJ,Djibouti,DJI,262,253
+DM,Dominica,DMA,212,1767
+DO,Dominican Republic,DOM,214,1809
+EC,Ecuador,ECU,218,593
+EG,Egypt,EGY,818,20
+SV,El Salvador,SLV,222,503
+GQ,Equatorial Guinea,GNQ,226,240
+ER,Eritrea,ERI,232,291
+EE,Estonia,EST,233,372
+ET,Ethiopia,ETH,231,251
+FK,Falkland Islands (Malvinas),FLK,238,500
+FO,Faroe Islands,FRO,234,298
+FJ,Fiji,FJI,242,679
+FI,Finland,FIN,246,358
+FR,France,FRA,250,33
+GF,French Guiana,GUF,254,594
+PF,French Polynesia,PYF,258,689
+GA,Gabon,GAB,266,241
+GM,Gambia,GMB,270,220
+GE,Georgia,GEO,268,995
+DE,Germany,DEU,276,49
+GH,Ghana,GHA,288,233
+GI,Gibraltar,GIB,292,350
+GR,Greece,GRC,300,30
+GL,Greenland,GRL,304,299
+GD,Grenada,GRD,308,1473
+GP,Guadeloupe,GLP,312,590
+GU,Guam,GUM,316,1671
+GT,Guatemala,GTM,320,502
+GN,Guinea,GIN,324,224
+GW,Guinea-Bissau,GNB,624,245
+GY,Guyana,GUY,328,592
+HT,Haiti,HTI,332,509
+VA,Holy See (Vatican City State),VAT,336,39
+HN,Honduras,HND,340,504
+HK,Hong Kong,HKG,344,852
+HU,Hungary,HUN,348,36
+IS,Iceland,ISL,352,354
+IN,India,IND,356,91
+ID,Indonesia,iDN,360,62
+IR,"Iran, Islamic Republic Of",iRN,364,98
+IQ,Iraq,iRQ,368,964
+IE,Ireland,iRL,372,353
+IL,Israel,iSR,376,972
+IT,Italy,iTA,380,39
+JM,Jamaica,jAM,388,1876
+JP,Japan,jPN,392,81
+JO,Jordan,jOR,400,962
+KZ,Kazakhstan,kAZ,398,7
+KE,Kenya,kEN,404,254
+KI,Kiribati,kIR,296,686
+KP,"Korea, Democratic People'S Republic Of",pRK,408,850
+KR,"Korea, Republic Of",kOR,410,82
+KW,Kuwait,kWT,414,965
+KG,Kyrgyzstan,kGZ,417,996
+LA,Lao People'S Democratic Republic,lAO,418,856
+LV,Latvia,lVA,428,371
+LB,Lebanon,lBN,422,961
+LS,Lesotho,lSO,426,266
+LR,Liberia,lBR,430,231
+LY,Libyan Arab Jamahiriya,lBY,434,218
+LI,Liechtenstein,lIE,438,423
+LT,Lithuania,lTU,440,370
+LU,Luxembourg,lUX,442,352
+MO,Macao,mAC,446,853
+MK,"Macedonia, The Former Yugoslav Republic Of",mKD,807,389
+MG,Madagascar,mDG,450,261
+MW,Malawi,mWI,454,265
+MY,Malaysia,mYS,458,60
+MV,Maldives,mDV,462,960
+ML,Mali,mLI,466,223
+MT,Malta,mLT,470,356
+MH,Marshall Islands,mHL,584,692
+MQ,Martinique,mTQ,474,596
+MR,Mauritania,mRT,478,222
+MU,Mauritius,mUS,480,230
+MX,Mexico,mEX,484,52
+FM,"Micronesia, Federated States Of",fSM,583,691
+MD,"Moldova, Republic Of",mDA,498,373
+MC,Monaco,mCO,492,377
+MN,Mongolia,mNG,496,976
+MS,Montserrat,mSR,500,1664
+MA,Morocco,mAR,504,212
+MZ,Mozambique,mOZ,508,258
+MM,Myanmar,mMR,104,95
+,Namibia,nAM,516,264
+NR,Nauru,nRU,520,674
+NP,Nepal,nPL,524,977
+NL,Netherlands,nLD,528,31
+AN,Netherlands Antilles,aNT,530,599
+NC,New Caledonia,nCL,540,687
+NZ,New Zealand,nZL,554,64
+NI,Nicaragua,nIC,558,505
+NE,Niger,nER,562,227
+NG,Nigeria,nGA,566,234
+NU,Niue,nIU,570,683
+NF,Norfolk Island,nFK,574,672
+MP,Northern Mariana Islands,mNP,580,1670
+NO,Norway,nOR,578,47
+OM,Oman,oMN,512,968
+PK,Pakistan,pAK,586,92
+PW,Palau,pLW,585,680
+PA,Panama,pAN,591,507
+PG,Papua New Guinea,pNG,598,675
+PY,Paraguay,pRY,600,595
+PE,Peru,pER,604,51
+PH,Philippines,pHL,608,63
+PN,Pitcairn,pCN,612,0
+PL,Poland,pOL,616,48
+PT,Portugal,pRT,620,351
+PR,Puerto Rico,pRI,630,1787
+QA,Qatar,qAT,634,974
+RE,Reunion,rEU,638,262
+RO,Romania,rOM,642,40
+RU,Russian Federation,rUS,643,70
+RW,Rwanda,rWA,646,250
+SH,Saint Helena,sHN,654,290
+KN,Saint Kitts and  Nevis,kNA,659,1869
+LC,Saint Lucia,lCA,662,1758
+PM,Saint Pierre and  Miquelon,sPM,666,508
+VC,Saint Vincent and  The Grenadines,vCT,670,1784
+WS,Samoa,wSM,882,684
+SM,San Marino,sMR,674,378
+ST,Sao Tome and  Principe,sTP,678,239
+SA,Saudi Arabia,sAU,682,966
+SN,Senegal,sEN,686,221
+SC,Seychelles,sYC,690,248
+SL,Sierra Leone,sLE,694,232
+SG,Singapore,sGP,702,65
+SK,Slovakia,sVK,703,421
+SI,Slovenia,sVN,705,386
+SB,Solomon Islands,sLB,90,677
+SO,Somalia,sOM,706,252
+ZA,South Africa,zAF,710,27
+ES,Spain,eSP,724,34
+LK,Sri Lanka,lKA,144,94
+SD,Sudan,sDN,736,249
+SR,Suriname,sUR,740,597
+SJ,Svalbard and  Jan Mayen,sJM,744,47
+SZ,Swaziland,sWZ,748,268
+SE,Sweden,sWE,752,46
+CH,Switzerland,cHE,756,41
+SY,Syrian Arab Republic,sYR,760,963
+TW,"Taiwan, Province Of China",tWN,158,886
+TJ,Tajikistan,tJK,762,992
+TZ,"Tanzania, United Republic Of",tZA,834,255
+TH,Thailand,tHA,764,66
+TG,Togo,tGO,768,228
+TK,Tokelau,tKL,772,690
+TO,Tonga,tON,776,676
+TT,Trinidad and  Tobago,tTO,780,1868
+TN,Tunisia,tUN,788,216
+TR,Turkey,tUR,792,90
+TM,Turkmenistan,tKM,795,7370
+TC,Turks and  Caicos Islands,tCA,796,1649
+TV,Tuvalu,tUV,798,688
+UG,Uganda,uGA,800,256
+UA,Ukraine,uKR,804,380
+AE,United Arab Emirates,aRE,784,971
+GB,United Kingdom,gBR,826,44
+US,United States,uSA,840,1
+UY,Uruguay,uRY,858,598
+UZ,Uzbekistan,uZB,860,998
+VU,Vanuatu,vUT,548,678
+VE,Venezuela,vEN,862,58
+VN,Viet Nam,vNM,704,84
+VG,"Virgin Islands, British",vGB,92,1284
+VI,"Virgin Islands, U.S.",VIR,850,1340
+WF,Wallis and  Futuna,wLF,876,681
+EH,Western Sahara,eSH,732,212
+YE,Yemen,yEM,887,967
+ZM,Zambia,zMB,894,260
+ZW,Zimbabwe,zWE,716,263
+AD,Andorra,AND,20,376
