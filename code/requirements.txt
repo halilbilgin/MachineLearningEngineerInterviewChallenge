@@ -1,0 +1,8 @@
+sklearn
+psycopg2
+pandas==0.24.1
+numpy
+matplotlib
+sqlalchemy
+seaborn
+tqdm
